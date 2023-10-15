@@ -6,16 +6,12 @@ Welcome to the Patria GitHub repository. Patria word comes from the Latin word, 
 
 ## How to Play?
 
-1. To play this game, first of all, download the application from here: [Download Here](https://github.com/lightlessdays/Patria-AR/raw/main/Patria.apk?download=true).
-2. Now open the application on your phone. If you do not see a black screen, proceed to the next step. If you see a black screen, make sure that you have given appropriate camera permissions to the application. If you have enabled camera permissions, then exit the app reopen the app, and wait for 3 seconds. The camera on the application should open.
-3. Next, point the application's camera towards the following image:
-<img src="marker.png" width=100%>
-4. A globe should pop up. On the application, you will see the name of a country. You have to select that country on the globe. If you do that, you may proceed. Else, you selected the wrong country.
-
-## Installing the Application
-
-This application is available - both for Android as well as iOS. The web version of this application will be available soon. 
-To use the Android version, you may install it from the Play Store by [clicking here](https://play.google.com/store/apps/details?id=com.dhruvbadaya.omega&hl=en_IN&gl=US)
+| S.No. | Steps                                                                                                                                                                                                                                                                                                                                                        |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | To play this game, first of all, download the application from here: [Download Here](https://github.com/lightlessdays/Patria-AR/raw/main/Patria.apk?download=true).                                                                                                                                                                                          |
+| 2     | Now open the application on your phone. If you do not see a black screen, proceed to the next step. If you see a black screen, make sure that you have given appropriate camera permissions to the application. If you have enabled camera permissions, then exit the app reopen the app, and wait for 3 seconds. The camera on the application should open. |
+| 3     | Next, point the application's camera towards the following image: [Image Link](marker.jpeg)                                                                                                                                                                                                                                                                  |
+| 4     | A globe should pop up. On the application, you will see the name of a country. You have to select that country on the globe. If you do that, you may proceed. Else, you selected the wrong country.                                                                                                                                                          |                                                                         |
 
 ## Getting Started
 
