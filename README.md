@@ -1,2 +1,3 @@
-# Patria-AR
-An Augmented Reality Country Guessing Game, made using Unity and Vuforia, licensed under MIT. Patria comes from Patrium, which is the latin for 'country'.
+<img src="readme_banner.png" width=100%>
+
+# Patria: An Open Source Augmented Reality Game, powered by Unity and Vuforia
