@@ -4,6 +4,12 @@
 
 Welcome to the Patria GitHub repository. Patria word comes from the Latin word, Patrium, which means Country. Patrium is an open-source augmented reality-based game, made with Unity and Vuforia. In this game, you are given the name of the country and have to pinpoint the country on the globe. 
 
+## Screenshots 
+
+<img src="Screenshot1.jpg" width=30%> &nbsp;&nbsp;&nbsp;
+<img src="Screenshot2.jpg" width=30%> &nbsp;&nbsp;&nbsp;
+<img src="Screenshot3.jpg" width=30%> &nbsp;&nbsp;&nbsp;
+
 ## How to Play?
 
 | S.No. | Steps                                                                                                                                                                                                                                                                                                                                                        |
@@ -13,17 +19,9 @@ Welcome to the Patria GitHub repository. Patria word comes from the Latin word, 
 | 3     | Next, point the application's camera towards the following image: [Image Link](marker.jpeg)                                                                                                                                                                                                                                                                  |
 | 4     | A globe should pop up. On the application, you will see the name of a country. You have to select that country on the globe. If you do that, you may proceed. Else, you selected the wrong country.                                                                                                                                                          |                                                                         |
 
-## Getting Started
-
-To get started with Omega, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/lightlessdays/Omega-Search.git`
-2. Install the necessary dependencies: `flutter pub get`
-3. Build and run Omega: `flutter run`
-
 ## Contributing
 
-We welcome contributions from the community to help improve Omega. To contribute, please follow these guidelines:
+We welcome contributions from the community to help improve Patria. To contribute, please follow these guidelines:
 
 - Fork this repository.
 - Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name`
@@ -35,17 +33,28 @@ For more detailed information on contributing, please read our [Contributing Gui
 
 ## Code of Conduct
 
-We want to ensure a welcoming and inclusive community around Omega. We have a [Code of Conduct](CODE_OF_CONDUCT.md) in place to set the expectations for respectful and collaborative behavior. Please read and adhere to it when participating in this project.
+We want to ensure a welcoming and inclusive community around Patria AR. We have a [Code of Conduct](CODE_OF_CONDUCT.md) in place to set the expectations for respectful and collaborative behavior. Please read and adhere to it when participating in this project.
 
 ## License
 
-Omega is licensed under the [LICENSE](LICENSE) file.
+MIT License
 
-## Screenshots
+Copyright (c) 2023 Dhruv Badaya
 
-<img src="https://github.com/lightlessdays/Omega-Search/assets/97734029/c07c9276-16b0-4f2e-8a69-7b94a7a92570" width=30%> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/lightlessdays/Omega-Search/assets/97734029/4f1d2bdd-2d7b-4580-b914-c5a44ccaf296" width=30%> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/lightlessdays/Omega-Search/assets/97734029/09e5b90c-5ebf-4eb7-8920-b7893286493f" width=30%> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/lightlessdays/Omega-Search/assets/97734029/54979382-e58a-411a-beab-994e2e454962" width=30%> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/lightlessdays/Omega-Search/assets/97734029/3486435f-3169-459a-9dd5-294e9065a592" width=30%> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/lightlessdays/Omega-Search/assets/97734029/edf46e24-c581-4216-9308-0dec15bcd301" width=30%> 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
