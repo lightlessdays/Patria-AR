@@ -1,16 +1,16 @@
 <img src="readme_banner.png" width=100%>
 
-# Patria: An Open Source Augmented Reality Game, powered by Unity and Vuforia
+# 🌍 Patria: An Open Source Augmented Reality Game, powered by Unity and Vuforia
 
 Welcome to the Patria GitHub repository. Patria word comes from the Latin word, Patrium, which means Country. Patrium is an open-source augmented reality-based game, made with Unity and Vuforia. In this game, you are given the name of the country and have to pinpoint the country on the globe. 
 
-## Screenshots 
+## 📷 Screenshots 
 
 <img src="Screenshot1.jpg" width=30%> &nbsp;&nbsp;&nbsp;
 <img src="Screenshot2.jpg" width=30%> &nbsp;&nbsp;&nbsp;
 <img src="Screenshot3.jpg" width=30%> &nbsp;&nbsp;&nbsp;
 
-## How to Play?
+## 🎮 How to Play?
 
 | S.No. | Steps                                                                                                                                                                                                                                                                                                                                                        |
 |-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -19,7 +19,7 @@ Welcome to the Patria GitHub repository. Patria word comes from the Latin word, 
 | 3     | Next, point the application's camera towards the following image: [Image Link](marker.jpeg)                                                                                                                                                                                                                                                                  |
 | 4     | A globe should pop up. On the application, you will see the name of a country. You have to select that country on the globe. If you do that, you may proceed. Else, you selected the wrong country.                                                                                                                                                          |                                                                         |
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions from the community to help improve Patria. To contribute, please follow these guidelines:
 
@@ -31,11 +31,11 @@ We welcome contributions from the community to help improve Patria. To contribut
 
 For more detailed information on contributing, please read our [Contributing Guidelines](CONTRIBUTING.md).
 
-## Code of Conduct
+## ⚖️ Code of Conduct
 
 We want to ensure a welcoming and inclusive community around Patria AR. We have a [Code of Conduct](CODE_OF_CONDUCT.md) in place to set the expectations for respectful and collaborative behavior. Please read and adhere to it when participating in this project.
 
-## License
+## 🪪 License
 
 MIT License
 
