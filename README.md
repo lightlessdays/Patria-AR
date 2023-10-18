@@ -1,6 +1,6 @@
 <img src="readme_banner.png" width=100%>
 
-# 🌍 Patria: An Open Source Augmented Reality Game, powered by Unity and Vuforia
+# 🌍 Patria: An Open Source Augmented Reality Game, powered by Unity and Vuforia.
 
 Welcome to the Patria GitHub repository. Patria word comes from the Latin word, Patrium, which means Country. Patrium is an open-source augmented reality-based game, made with Unity and Vuforia. In this game, you are given the name of the country and have to pinpoint the country on the globe. 
 
